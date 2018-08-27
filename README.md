@@ -23,7 +23,7 @@ Made using the Truffle toolkit, React.js, Redux, and Webpack.
 
     ```shell
     git clone https://github.com/Howlla/Movehack2018.git
-    cd trace
+    cd Movehack2018
     ```
     
 1. Install the Truffle toolkit globally and install project dependencies:
